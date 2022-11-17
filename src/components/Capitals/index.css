@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  padding: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #f8fafc;
+  width: 40%;
+  border-radius: 16px;
+  padding: 60px;
+}
+.heading {
+  color: #1e293b;
+}
+.select-btn {
+  border: 1px solid #cbd2d9;
+  padding: 10px;
+  color: #000000;
+  width: 50%;
+  margin-right: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.option {
+  color: #000000;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.country-name {
+  color: #323f4b;
+  font-weight: bold;
+  font-size: 20px;
+}
